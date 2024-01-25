@@ -1,4 +1,3 @@
-import React from 'react'
 import Google from '../assets/imgs/google-1-1.svg';
 import BlackRock from '../assets/imgs/blackrock-logo-1.svg';
 import CocaCola from '../assets/imgs/coca-cola-2021.svg';
